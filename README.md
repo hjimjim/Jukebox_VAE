@@ -7,10 +7,13 @@
 
 
 ## Evaluation
+origianl music is preprossed input data, it might be a little different from the actual Mozart Piano Sonata
 Original music - Mozart Piano Sonata
+
 https://github.com/hjimjim/Jukebox_VAE/assets/7866162/84049669-5acb-41d0-85a4-03e1d28abda1
 
 Reconstructed Music
+
 https://github.com/hjimjim/Jukebox_VAE/assets/7866162/30d8c4ef-374f-4c14-bcfe-18bc41fe82ce
 
 ## DataSet
