@@ -7,7 +7,9 @@
 
 
 ## Evaluation
-origianl music is preprossed input data, it might be a little different from the actual Mozart Piano Sonata
+Origianl music is preprossed input data, it might be a little different from the actual Mozart Piano Sonata    
+Reconstructed music quality is very high.   
+
 Original music - Mozart Piano Sonata
 
 https://github.com/hjimjim/Jukebox_VAE/assets/7866162/84049669-5acb-41d0-85a4-03e1d28abda1
